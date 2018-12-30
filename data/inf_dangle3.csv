@@ -1,0 +1,25 @@
+i, j, Dangle, Energy
+U,A,A,99
+U,A,C,99
+U,A,G,99
+U,A,U,99
+G,C,A,99
+G,C,C,99
+G,C,G,99
+G,C,U,99
+C,G,A,99
+C,G,C,99
+C,G,G,99
+C,G,U,99
+U,G,A,99
+U,G,C,99
+U,G,G,99
+U,G,U,99
+A,U,A,99
+A,U,C,99
+A,U,G,99
+A,U,U,99
+G,U,A,99
+G,U,C,99
+G,U,G,99
+G,U,U,99

@@ -1,0 +1,25 @@
+Dangle, i, j, Energy
+A,U,A,0
+C,U,A,0
+G,U,A,0
+U,U,A,0
+A,G,C,0
+C,G,C,0
+G,G,C,0
+U,G,C,0
+A,C,G,0
+C,C,G,0
+G,C,G,0
+U,C,G,0
+A,U,G,0
+C,U,G,0
+G,U,G,0
+U,U,G,0
+A,A,U,0
+C,A,U,0
+G,A,U,0
+U,A,U,0
+A,G,U,0
+C,G,U,0
+G,G,U,0
+U,G,U,0

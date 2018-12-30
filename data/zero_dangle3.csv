@@ -1,0 +1,25 @@
+i, j, Dangle, Energy
+U,A,A,0
+U,A,C,0
+U,A,G,0
+U,A,U,0
+G,C,A,0
+G,C,C,0
+G,C,G,0
+G,C,U,0
+C,G,A,0
+C,G,C,0
+C,G,G,0
+C,G,U,0
+U,G,A,0
+U,G,C,0
+U,G,G,0
+U,G,U,0
+A,U,A,0
+A,U,C,0
+A,U,G,0
+A,U,U,0
+G,U,A,0
+G,U,C,0
+G,U,G,0
+G,U,U,0
