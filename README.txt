@@ -18,6 +18,6 @@ MacroFold is designed to be able to:
 3. Generate a set of representative folds of a given sequence
 4. Calculate the multiplicity of microstates of a given sequence
 
-See the Manual for documentation.
+See the Manual (effectively the appendices of my honours thesis) for some documentation.
 
 Feel free to contact nikihowe AT gmail DOT com for help using the program!
